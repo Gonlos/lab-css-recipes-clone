@@ -5,7 +5,7 @@ html, body{
   height: 100%;
   max-width:800px;
   font-size: 14px;
-  color:gray;
+  color:black;
   font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
 header{
@@ -30,6 +30,10 @@ main{
 h2{
   font-weight: normal;
 }
+hr{
+  color:lightgray;
+  border-width :2px;
+border-style:solid;}
 ul, ol{
   padding-left:15px;
 }
